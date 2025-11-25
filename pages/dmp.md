@@ -8,4 +8,4 @@ permalink: /dmp.html
 
 Created by my group in DSCI350M Fall 2025 course at the University of Oregon
 
-{% include _data/MAP.pdf objectid="MAP" width="50" %}
+{% include MAP.pdf objectid="MAP" width="50" %}
