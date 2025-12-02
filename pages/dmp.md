@@ -11,7 +11,7 @@ DMP Requirements
 
 ### Project Description
 
-    This should include a brief description of the technology (CollectionBuilder, GitHub, Sheets) you're using, your research topic, how your project benefits your audience, and anything else exciting you want to share. Unlike your topic description, this should be a short summary of the technical aspects of the project.
+This digital collection project presents photos and artistic renderings of early representations of queer identities in popular entertainment forms such as theater and vaudeville. Its primary focus is on popular male and female impersonators who achieved notable success during the early 20th century in the United States. The collection includes postcards, publicity photographs, sheet music, and drawings curated from several GLAM repositories, including the Digital Transgender Archive, the New York Public Library Digital Collections, and the Queer Music Heritage Archive. Our goal is to create a cohesive portrayal of performers who defined their era and contributed to the visibility of queer expression in mainstream culture.
 
 ### Roles and Responsibilities*
 
