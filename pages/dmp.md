@@ -36,9 +36,9 @@ Objects were acquired through systematic research using GLAM resources to identi
 
 ### Data Sharing
 
-    How will you share your data? What will you make available?
-    Could others want to reuse your data? In what ways?
-    Do you plan on archiving your data in an external repository? (This is not a requirement!)
+Our data is shared via a jekyll-built CollectionBuilder website hosted by GitHub Pages. We are making available the digital objects, including the JPG/JPEG image file of the object and the metadata, which contain citations from the source GLAMs. 
+Others may want to reuse our data to conduct historical research into American Vaudeville; personal, academic, or other reasons must fall in accordance with copyright and within licensed use which is explicitly stated within the metadata fields. 
+Our data is going to be additionally archived in a Google Drive. For editing access to the Google Drive, please reach out to the admin attached to the Drive.
 
 ### Period of Data Retention
 
