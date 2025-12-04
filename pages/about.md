@@ -14,14 +14,15 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+### Historical Context
+Vaudevillian impersonation was a popular and influential part of entertainment from the late 1800s through the early 1930s. Male and female impersonation had much older theatrical roots—such as men playing all roles in Shakespeare’s era or gender tricks in pantomime, but vaudeville turned it into a mainstream stage specialty. A central characteristic of Vaudevillian performance was satire.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+Male impersonators were women who performed as men, often adopting fashionable clothing, confident posture, and deep singing voices. Their acts ranged from satire to smooth, masculine personas. The popularity of male impersonators reflected broader cultural changes, especially shifting roles for women during the suffrage movement and World War I.  
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+One of the most famous female impersonators was Julian Eltinge, known for stunning feminine costume and poise, while others like Bert Savoy brought a flamboyant comedic style that helped shape later drag performance.   
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+In many major cities in the mid-1930s, laws, ordinances or police actions explicitly targeted female and male impersonators as part of efforts to regulate morality and entertainment. Performers found fewer mainstream venues; their acts became marginalized or confined to underground nightclubs.  
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Harbin, Billy J.; Marra, Kim; Schanke, Robert A. (2005). The Gay & Lesbian Theatrical Legacy: A Biographical Dictionary of Major Figures in American Sta…. University of Michigan Press. pp. 374–375. ISBN 978-0-472-06858-6. 
+ 
+Ullman, Sharon R. "'The Twentieth Century Way': Female Impersonation and Sexual Practice in Turn-of-theCentury America." Journal of the History of Sexuality 5, no. 4 (1995): 573-600. 
