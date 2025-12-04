@@ -26,13 +26,13 @@ Objects were acquired through systematic research using GLAM resources to identi
 
 ### Documentation and Metadata
 
-    What type of metadata will accompany this data? Where and how can users access this metadata?
-        Hint: Your data dictionary, once completed, is excellent documentation! Where and how do you plan on provide it to your audience?
+The collection has produced a significant amount of metadata that has been tracked, documented and applied in accordance with a group-developed Metadata Application Profile (MAP). The MAP ensures that users cataloging items in the collection know what information to include and how to format it, resulting in consistent description across all items. The consistency supports clarity, browsability and reproducibility, while ensuring the collection remains usable and accessible to its intended audience. The guidelines also ensure that all metadata meets CollectionBuilder’s data entry and formatting standards so the site can function properly. For reference, the CollectionBuilder documentation on CSV metadata and metadata formatting was used to inform and maintain these standards. Users can access the metadata via the “” section on our collection website.
 
 ### Storage and Backup
 
-    Describe resources, repositories, and platforms used to preserve your data during the project.
-        Hint: This should include Google Drive, GitHub, and any storage on your personal computers.
+Our data is shared via a jekyll-built CollectionBuilder website hosted by GitHub Pages. We are making available the digital objects, including the JPG/JPEG image file of the object and the metadata, which contain citations from the source GLAMs. 
+Others may want to reuse our data to conduct historical research into American Vaudeville; personal, academic, or other reasons must fall in accordance with copyright and within licensed use which is explicitly stated within the metadata fields. 
+Our data is going to be additionally archived in a Google Drive in accordance with the next subsection.
 
 ### Data Sharing
 
@@ -42,12 +42,12 @@ Our data is going to be additionally archived in a Google Drive. For editing acc
 
 ### Period of Data Retention
 
-    This section should address how long your group plans to maintain each component of the project before and after it has been submitted for grading.
-    If you plan to maintain the project after the term ends, what is your contingency plan if a component of the project goes down?
+During Fall 2025, all components are actively maintained across three storage tiers. The metadata spreadsheet is continuously updated with weekly GitHub syncs. Quality reviews identify and correct errors.
+The GitHub repository will likely remain accessible indefinitely as CollectionBuilder's static architecture requires no ongoing maintenance. If GitHub discontinues free hosting, any member can fork the repository or migrate to alternative platforms. If UO accounts are deactivated, the Project Manager will coordinate transfer to personal accounts 30 days in advance. If team members become unavailable, documented procedures in Google Drive enable continuity.
 
 ### Licensing and Ethical Issues
 
-    Use this section to outline the intellectual property rights of your created material.  What are the terms under which others may use these materials? If your data and products raise any potential ethics issues, use this section to address those matters.
+The photos and artwork we used were from public collections that we cited and we made sure to include all the information provided to us from the original collections. We included a rights statement for protection. The images we chose are public domain. The photos we included are not culturally insensitive and do not include Indigenous communities, enslaved people, children, patients or institutionalized individuals. The only concern is that these images will be taken out of context as they are images of female and male impersonators. This is the risk when posting in public collections. These are public domain images so they do risk being used as images of marginalized people without community involvement or the use of sensitive historical photographs in marketing.
 
 ### Appendix: Data Dictionary
 
