@@ -51,7 +51,6 @@ The photos and artwork we used were from public collections that we cited and we
 
 ### Appendix: Data Dictionary
 
-    Your data dictionary is a key to your metadata. It is organized as a table documenting fields in your group’s CollectionBuilder spreadsheet.
-    Your data dictionary should have as many items as used fields in your CollectionBuilder metadata spreadsheet.
-    You do not need to alter the standard definitions of fields required by CollectionBuilder.
-    Did you created your own fields? Use the location field in a specific context? Have a naming standard for your items? This is the place to (briefly) document those decisions.
+[Metadata Application Profile]()
+
+[File Naming Scheme]()
