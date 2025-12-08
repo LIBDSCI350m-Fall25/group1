@@ -38,6 +38,7 @@ The objects in this digital collection were sourced from the following:
 - [JD Doyle Archives](http://www.jddoylearchives.org/)
 - [UCLA Sheet Music Library](https://digital.library.ucla.edu/)
 - [Digital Transgender Archives](https://www.digitaltransgenderarchive.net/)
+- [New York Public Library](https://digitalcollections.nypl.org/)
 
 ### Ownership Statement
 
