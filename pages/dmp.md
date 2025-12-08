@@ -12,7 +12,7 @@ This digital collection uses CollectionBuilder, an open-source framework for cre
 
 By bringing together these dispersed archival materials in a single, searchable interface, the project serves LGBTQ+ community members, educators, students, and researchers seeking primary source materials that document queer visibility in mainstream entertainment during periods of social repression. The CollectionBuilder platform offers interpretive visualization features including timeline views, geographic mapping, and subject browsing while maintaining long-term sustainability through static site generation. The site is freely available online with no authentication barriers, hosted on GitHub Pages, and accessible to anyone with internet access.
 
-### Roles and Responsibilities*
+### Roles and Responsibilities
 
 Data management responsibilities are distributed across five specialized roles. The Project Manager coordinates activities, leads quality reviews, manages Google Drive, and submits deliverables. The Collection Development Manager makes final decisions about object inclusion and writes collection descriptions. The Object Preservation Manager oversees storage organization, establishes file naming standards, and ensures backup copies exist. The Metadata Manager coordinates cataloging of all 21 objects, ensures adherence to the metadata application profile with 21 defined fields, and maintains the master spreadsheet. The Repository Manager validates technical requirements, manages GitHub setup, and troubleshoots platform issues.
 
