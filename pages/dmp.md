@@ -52,9 +52,9 @@ We use a three-tier storage and backup strategy:
 
 1. **Google Drive (working storage).**  
    A shared Google Drive serves as the primary working environment for the project team. It follows a simple, documented folder structure:  
-   - `/objects` – JPEG image files for all 21 objects  
-   - `/metadata` – the CollectionBuilder CSV, MAP, and data dictionary  
-   - `/documentation` – project notes, planning documents, and assignment materials  
+   - `/Digital Objects` – JPEG image files for all 21 objects  
+   - `/Metadata and Documentation` – the CollectionBuilder CSV, MAP, and data dictionary  
+   - `/Meeting Notes` – project notes, planning documents, and assignment materials  
 
    This structure makes it easier for team members to locate specific materials and ensures that working files remain organized.
 
