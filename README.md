@@ -1,71 +1,73 @@
-# CollectionBuilder-GH
+# Queer Vaudeville Performance Archive
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
+**DSCI/LIB 350M: Humanities Research Data Management**  
+**Fall 2025**
 
-- a CSV of collection metadata
-- a folder of JPEG images, PDF documents, MP3s, or links to videos hosted on YouTube or Vimeo
+## About This Course
+This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums (GLAMs). With the goal of building thematic digital collections as researchers, students learn digital methodologies focusing on the technical, legal, ethical, and social aspects of working with humanities research data throughout its curation lifecycle. This includes hands-on experience finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities; and sharing thematic research digital collections using GitHub and the open-source platform CollectionBuilder.
 
-Visit the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
+## Project Team
+- **Zoe Tomlinson** - Project Manager
+- **Calista Gerard** - Repository Manager
+- **Jonathan Swenson** - Metadata Manager
+- **Lili Millet** - Object Preservation Manager
+- **Ben Fitzhugh** - Collection Development Manager
 
-## Build a Digital Collection
+## Collection Website
+**Visit our collection:** [https://libdsci350m-fall25.github.io/group1/](https://libdsci350m-fall25.github.io/group1/)
 
-Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy) and [metadata docs](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
+## About This Collection
+**Title:** Queer Vaudeville Performance Archive
+**Date Range:** 1870-1934
+**Description:**
+This digital collection documents early representations of queer identities in popular entertainment through photographs, postcards, sheet music, and artistic renderings of male and female impersonators from the vaudeville era. The collection focuses on performers who achieved notable success during the late 19th and early 20th centuries in the United States and United Kingdom, including Julian Eltinge, Karyl Norman, Bert Savoy, Vesta Tilley, Bothwell Browne, Della Fox, Bert Errol, and Ella Wesner. The collection includes 21 digital objects curated from multiple GLAM repositories, including the Digital Transgender Archive, the New York Public Library Digital Collections, University of Arizona Special Collections, University of Utah Digital Library, Crystal Bridges Museum of American Art, and the Queer Music Heritage Archive. Our goal is to create a cohesive portrayal of performers who defined their era and contributed to the visibility of queer expression in mainstream culture—reclaiming narratives that dominant institutions attempted to silence.
 
-Then click the green "use this template" button to create your repository, and add your metadata and configure the repository to fit your collection and settings following the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/). 
+### Historical Context
+Vaudevillian impersonation was popular and influential entertainment from the late 1800s through the early 1930s. While gender performance had older theatrical roots, vaudeville transformed it into a mainstream stage specialty. Male impersonators (women performing masculinity) and female impersonators (men performing femininity) achieved extraordinary fame and commercial success, performing for presidents and royalty, commanding top billing, and appearing on countless promotional materials. By the mid-1930s, this visibility abruptly ended. Laws, ordinances, and police actions explicitly targeted impersonators, and the 1934 Production Code effectively banned gender-nonconforming characters from film. This collection documents a brief historical moment of mainstream queer visibility before systematic erasure began.
 
-Please feel free to ask questions in the main [CollectionBuilder discussion forum](https://github.com/CollectionBuilder/collectionbuilder.github.io/discussions).
+## Data Management
+This project follows comprehensive data management best practices to ensure long-term preservation, accessibility, and ethical stewardship of our digital collection. Our data management approach includes:
+- **Metadata Standards:** 21 fields following Dublin Core and CollectionBuilder requirements, documented in a comprehensive Metadata Application Profile
+- **Controlled Vocabularies:** RightsStatements.org URIs, Getty Thesaurus of Geographic Names, DCMI Type Vocabulary, and project-specific authority lists
+- **Storage & Backup:** Three-tier redundant storage across Google Drive, GitHub, and local backups
+- **Rights & Licensing:** All objects documented with standardized rights statements; original content licensed under CC BY 4.0
+- **Accessibility:** Alt text for all images, no authentication barriers, free public access
+- **Preservation:** Committed to one-year maintenance through December 2026, with static site architecture enabling indefinite access
 
-**Note:** 
-Since CollectionBuilder-GH uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. 
-GitHub repositories are limited to 1GB.
-For larger collections or those that require more customization, check out the [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) template.
+**View our complete Data Management Plan:** [https://libdsci350m-fall25.github.io/group1/dmp.html](https://libdsci350m-fall25.github.io/group1/dmp.html)
 
-## CollectionBuilder-GH Quick Tutorial
+## Technical Information
+**Platform:** CollectionBuilder-CSV  
+**Hosting:** GitHub Pages  
+**Metadata Format:** CSV with 21 fields  
+**Object Format:** JPEG images  
+**Total Objects:** 21  
+**Collection Size:** Approximately 50-70 MB
 
-Follow the [CollectionBuilder-GH Walkthrough](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/gh-walkthrough/) to set up a collection quickly using demo metadata and objects. 
+### File Naming Convention
+All digital objects follow a standardized naming pattern:  
+`performername_archiveabbreviation_objecttype_briefdescription_year.jpg`
+Example: `karylnorman_nypl_postcard_portrait_1915.jpg`
 
-- [Demo Metadata](https://docs.google.com/spreadsheets/d/1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4/copy)
-- [Demo Objects](https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip)
+## Rights & Reuse
+**Digital Objects:** Historical materials (circa 1870-1930) with rights status documented using RightsStatements.org URIs:
+- 18 objects: Copyright Undetermined, due to age of objects
+- 3 objects: No Copyright - United States
+**Original Content:** Our metadata, documentation, and data dictionary are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You may copy, redistribute, and adapt these materials with attribution.
+**CollectionBuilder Code:** Open-source MIT License
 
-## Teaching and Learning with CollectionBuilder-GH
+## Acknowledgments
+We gratefully acknowledge the institutions that digitized and provided access to these materials:
+- Digital Transgender Archive
+- New York Public Library Digital Collections
+- University of Arizona Libraries, Special Collections
+- University of Utah J. Willard Marriott Digital Library
+- Crystal Bridges Museum of American Art
+- Queer Music Heritage Archive
 
-CollectionBuilder-GH is intended as a simple template for hands-on teaching about digital libraries.
-It can be used in a workshop setting to take participants through digitization and metadata creation, to having a live collection site hosted on GitHub.
+We honor the performers documented in this collection for their artistry, courage, and contributions to LGBTQ+ cultural history.
 
-CollectionBuilder-GH aims to be well documented and easy to configure by following the documentation, with the potential to scaffold learning of a multitude of transferable digital and data skills.
-A project in "minimal computing", it provides a depth of learning opportunities, allowing users to take complete ownership over the project and make their work open to the world.
+## Contact
+For questions about this collection or to request editing access to project files, please contact the repository administrators through the GitHub repository.
 
-Learn about:
-
-- Git and GitHub basics
-- [Markdown](https://guides.github.com/features/mastering-markdown/), plaintext writing and content creation
-- HTML, CSS, and JavaScript literacy
-- command line literacy
-- GitHub collaboration and project management
-- [Jekyll](https://jekyllrb.com/) basics
-- working in the Open, open source and open data
-- digital libraries concepts such as "collections as data", minimal computing, data-driven design
-
-> We prefer commonly understood formats (such as CSV spreadsheets over YAML), and convention over configuration (follow the example over learn all the options).
-
-----------
-
-## CollectionBuilder 
-
-<https://collectionbuilder.github.io/>
-
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
-
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
-
-Questions can be directed to **collectionbuilder.team@gmail.com**
-
-## License
-
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-csv/blob/master/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+**Last Updated:** December 2025
