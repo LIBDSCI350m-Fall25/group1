@@ -18,7 +18,9 @@ This course provides students with theoretical and practical experience in colle
 
 ## About This Collection
 **Title:** Queer Vaudeville Performance Archive
+
 **Date Range:** 1870-1934
+
 **Description:**
 This digital collection documents early representations of queer identities in popular entertainment through photographs, postcards, and sheet music of male and female impersonators from the vaudeville era. The collection focuses on performers who achieved notable success during the late 19th and early 20th centuries in the United States and United Kingdom, including Julian Eltinge, Karyl Norman, Bert Savoy, Vesta Tilley, Bothwell Browne, Della Fox, Bert Errol, and Ella Wesner. The collection includes 21 digital objects curated from multiple GLAM repositories, including the Digital Transgender Archive, the New York Public Library Digital Collections, University of Arizona Special Collections, University of Utah Digital Library, Crystal Bridges Museum of American Art, and the Queer Music Heritage Archive. Our goal is to create a cohesive portrayal of performers who defined their era and contributed to the visibility of queer expression in mainstream culture, reclaiming narratives that dominant institutions attempted to silence.
 
