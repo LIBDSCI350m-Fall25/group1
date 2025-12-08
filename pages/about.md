@@ -46,7 +46,7 @@ The objects in this digital collection were sourced from the following:
 
 ### Ownership Statement
 
-The Collection Managers do not own the digital objects within this collection. These items in our collection are used under the guide of Public Domain. Most of the items have the designation copywrite undertermined but were created prior to 1929. Within the metadata sheet, the feild `source` includes direct links to the parent GLAM containing the digital object.
+The Collection Managers do not own the digital objects within this collection. All materials are historical items (circa 1870-1930) sourced from publicly accessible institutional repositories and are made available for research and educational purposes. 18 objects have "Copyright Undetermined," meaning while most items were created prior to 1929, copyright status cannot be definitively determined due to unknown creation circumstances or unclear rights transfers. 3 objeects have "No Copyright - United States (Public Domain)." All objects include standardized rights statements using RightsStatements.org URIs. The source field in our metadata provides direct links to the parent GLAM institution holding each digital object. The metadata, collection descriptions, data management plan, and other documentation were created by the Collection Managers.
 
 ### Historical Context
 
