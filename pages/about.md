@@ -14,6 +14,10 @@ credits: true
 
 ## About the Collection
 
+### Description
+
+This digital collection documents early representations of queer identities in vaudeville entertainment (1880s-1930s), focusing on male and female impersonators who achieved mainstream celebrity before systematic erasure began through the 1934 Production Code and legal persecution. By aggregating 21 dispersed archival materials (postcards, photographs, sheet music, paintings, and advertisements) from multiple GLAM repositories including the Digital Transgender Archive and New York Public Library, this collection reclaims narratives that dominant institutions attempted to silence. The collection serves LGBTQ+ community members, educators, students, and researchers seeking primary sources that demonstrate queer people have always been present in public cultural life. Featured performers include Julian Eltinge, Karyl Norman, Bert Savoy, Vesta Tilley, Bothwell Browne, Della Fox, Bert Errol, and Ella Wesner.
+
 ### The Collection Managers
 
 Zoe T. (@itszoetom) is the project manager. Zoe has successfully coordinated our team to aggregate content for and to complete the deliverables (including this report), including facilitating collective agreement about important decisions like our topic, theme, and the bounds of those. Zoe’s role will continue to require these specific responsibilities, in addition to conducting quality assurance reviews.
