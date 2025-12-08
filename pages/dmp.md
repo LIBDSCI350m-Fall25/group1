@@ -51,6 +51,6 @@ The photos and artwork we used were from public collections that we cited and we
 
 ### Appendix: Data Dictionary
 
-[Metadata Application Profile]()
+[Metadata Application Profile](https://github.com/LIBDSCI350m-Fall25/group1/blob/main/objects/metadata-application-profile.docx.pdf)
 
-[File Naming Scheme]()
+[File Naming Scheme](https://github.com/LIBDSCI350m-Fall25/group1/blob/main/objects/file%20naming%20convention.pdf)
